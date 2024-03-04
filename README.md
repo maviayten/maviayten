@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*d0Qd8OUx_TUxG7N6H991ew.jpeg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*d0Qd8OUx_TUxG7N6H991ew.jpeg)
 
 <h1 align="center">Hi 👋, I'm Ayten ERGİOĞUZ</h1>
 <h3 align="center">A passionate mathematician and data scientist in Turkey</h3>
